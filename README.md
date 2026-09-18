@@ -35,5 +35,5 @@ Full-Stack Software Developer based in Putrajaya, Malaysia. I specialize in buil
 ### 📬 Connect with Me
 
 * 📧 **Email:** [muhdsolehwork@gmail.com](mailto:muhdsolehwork@gmail.com)
-* 💼 **LinkedIn:** [Muhammad Soleh](https://www.linkedin.com/in/muhammadsoleh)
+* 💼 **LinkedIn:** [Muhammad Soleh](https://www.linkedin.com/in/solehadammalik/)
 * 📍 **Location:** Putrajaya, Malaysia
