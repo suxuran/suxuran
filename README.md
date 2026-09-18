@@ -1,4 +1,4 @@
-# Hi there, I'm Soleh 👋
+# Hi there, I'm Sam 👋
 
 Final-year Computer Science student and Software Engineer Intern building robust full-stack web applications, integrating AI workflows, and applying cybersecurity best practices.
 
