@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Soleh 👋
 
-<!--
-**suxuran/suxuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student and Software Engineer Intern building robust full-stack web applications, integrating AI workflows, and applying cybersecurity best practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** PHP, Python, JavaScript, SQL, HTML/CSS
+* **Frameworks & Libraries:** Laravel, Filament, React, Django, Flask
+* **AI & Automation:** Local LLM Integration (Ollama, Qwen), AI-assisted workflow dev
+* **Security & Systems:** Google Cybersecurity Certified, Web Application Security
+
+---
+
+### 🚀 Featured Focus & Projects
+
+* 🛡️ **SpamGuard:** AI-powered email threat detection and security analytics.
+* ⚡ **Full-Stack Systems:** Building modern, scalable management interfaces with Laravel, Filament, and React.
+* 🤖 **Local AI & Workflows:** Experimenting with developer tools, agents, and local open-source AI tooling.
