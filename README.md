@@ -70,4 +70,4 @@ Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in 
 ---
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,3&height=100&section=footer" width="100%" />
