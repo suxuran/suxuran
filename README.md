@@ -1,5 +1,5 @@
 <!-- Waving Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,3&height=250&section=header&text=Hi,%20I'm%20Sam%20👋&fontSize=50&animation=fadeIn&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38B2AC&height=150&section=header&text=Hi,%20I'm%20Sam%20👋&fontSize=50&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG Animation -->
 <p align="center">
