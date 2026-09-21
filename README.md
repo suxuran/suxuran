@@ -59,12 +59,15 @@ Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suxuran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="suxuran's GitHub Stats" width="48%" />
+  <!-- Fixed URL: using the anuraghazra1.vercel.app mirror to prevent rate-limiting -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=suxuran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="suxuran's GitHub Stats" width="48%" />
+  <!-- Streak stats use a different reliable server (Heroku) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suxuran&theme=tokyonight&hide_border=true&background=0D1117" alt="suxuran's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxuran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <!-- Fixed URL: using the anuraghazra1.vercel.app mirror to prevent rate-limiting -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=suxuran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </p>
 
 ---
