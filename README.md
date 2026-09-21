@@ -34,16 +34,6 @@ Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in 
 
 ### 🛠️ Technical Stack
 
-### 🛠️ Technical Stack
-
-#### Backend & Databases
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/><br>Laravel | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br>Django | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL |
-| :---: | :---: | :---: | :---: | :---: |
-
-#### Frontend & UI
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/><br>Tailwind | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br>Bootstrap |
-| :---: | :---: | :---: | :---: | :---: |
-
 **Backend Frameworks & Languages**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask" alt="Backend Stack" />
