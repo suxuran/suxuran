@@ -36,10 +36,6 @@ Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in 
 
 **Backend Frameworks & Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask" alt="Backend Stack" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask&theme=light" />
 </p>
 
