@@ -1,5 +1,5 @@
 <!-- Waving Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=250&section=header&text=Hi,%20I'm%20Sam%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3&height=250&section=header&text=Hi,%20I'm%20Sam%20👋&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <!-- Typing SVG Animation -->
 <p align="center">
@@ -70,6 +70,4 @@ Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in 
 ---
 
 <!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=100&section=footer" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3&height=100&section=footer" width="100%" />
