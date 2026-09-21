@@ -58,28 +58,26 @@ Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in 
 
 ### 📊 GitHub Analytics & Activity
 
-<!-- Gamified Profile Trophies -->
 <p align="center">
-  <a href="https://github.com/suxuran" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=suxuran&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" alt="suxuran's Trophies" />
-  </a>
+  <!-- Stable Stats Mirror -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=suxuran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="suxuran's GitHub Stats" width="48%" />
+  
+  <!-- Reliable Streak Server (Heroku) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suxuran&theme=tokyonight&hide_border=true&background=0D1117" alt="suxuran's GitHub Streak" width="48%" />
 </p>
 
-<!-- Dynamic Activity Line Chart -->
 <p align="center">
-  <a href="https://github.com/suxuran" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suxuran&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FFFFFF" alt="suxuran's Activity Graph" width="100%" />
-  </a>
+  <!-- Stable Languages Mirror -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=suxuran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </p>
 
-<!-- Compact Stats & Languages -->
+<!-- Animated Contribution Snake (Requires GitHub Action setup) -->
 <p align="center">
-  <a href="https://github.com/suxuran?tab=repositories">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=suxuran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true&hide_rank=true" alt="Stats" width="48%" />
-  </a>
-  <a href="https://github.com/suxuran?tab=repositories">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=suxuran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" alt="Top Languages" width="48%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suxuran/suxuran/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suxuran/suxuran/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suxuran/suxuran/output/github-snake.svg">
+  </picture>
 </p>
 
 ---
