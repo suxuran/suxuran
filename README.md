@@ -56,18 +56,30 @@ Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in 
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Activity
 
+<!-- Gamified Profile Trophies -->
 <p align="center">
-  <!-- Fixed URL: using the anuraghazra1.vercel.app mirror to prevent rate-limiting -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=suxuran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="suxuran's GitHub Stats" width="48%" />
-  <!-- Streak stats use a different reliable server (Heroku) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suxuran&theme=tokyonight&hide_border=true&background=0D1117" alt="suxuran's GitHub Streak" width="48%" />
+  <a href="https://github.com/suxuran" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=suxuran&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" alt="suxuran's Trophies" />
+  </a>
 </p>
 
+<!-- Dynamic Activity Line Chart -->
 <p align="center">
-  <!-- Fixed URL: using the anuraghazra1.vercel.app mirror to prevent rate-limiting -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=suxuran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <a href="https://github.com/suxuran" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suxuran&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FFFFFF" alt="suxuran's Activity Graph" width="100%" />
+  </a>
+</p>
+
+<!-- Compact Stats & Languages -->
+<p align="center">
+  <a href="https://github.com/suxuran?tab=repositories">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=suxuran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true&hide_rank=true" alt="Stats" width="48%" />
+  </a>
+  <a href="https://github.com/suxuran?tab=repositories">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=suxuran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" alt="Top Languages" width="48%" />
+  </a>
 </p>
 
 ---
