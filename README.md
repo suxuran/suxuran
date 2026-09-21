@@ -56,32 +56,6 @@ Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in 
 
 ---
 
-### 📊 GitHub Analytics & Activity
-
-<p align="center">
-  <!-- Stable Stats Mirror -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=suxuran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="suxuran's GitHub Stats" width="48%" />
-  
-  <!-- Reliable Streak Server (Heroku) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suxuran&theme=tokyonight&hide_border=true&background=0D1117" alt="suxuran's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Stable Languages Mirror -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=suxuran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</p>
-
-<!-- Animated Contribution Snake (Requires GitHub Action setup) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suxuran/suxuran/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suxuran/suxuran/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suxuran/suxuran/output/github-snake.svg">
-  </picture>
-</p>
-
----
-
 ### 📬 Connect with Me
 
 <p align="left">
@@ -91,7 +65,6 @@ Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in 
   <a href="https://www.linkedin.com/in/solehadammalik/">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Soleh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Putrajaya%2C_Malaysia-008080?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
