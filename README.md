@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in building, migrating, and maintaining production web applications using **Laravel, Python (Django/Flask), and React**, with an emphasis on security posture and AI/ML integrations.
+Full-Stack Software Developer based in **Putrajaya, Malaysia**. I specialize in building, migrating, and maintaining production web applications using **Laravel, Python (Django/Flask), and React**, with an emphasis on security posture and AI/ML integrations. 
 
 ---
 
